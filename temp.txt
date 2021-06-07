@@ -1,0 +1,3 @@
+<script>
+      System.import('./scriptIm.js');
+    </script>
